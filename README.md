@@ -1,1 +1,1 @@
-All four classes are located in SRC, with their full implementations.
+All four classes are located in src within HW2, with their full implementations.
